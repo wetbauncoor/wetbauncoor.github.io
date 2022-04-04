@@ -2,7 +2,7 @@ title:              wetbauncoor's Blog
 email:              email@example.com
 description:        A Blog
 author:             wetbauncoor
-baseurl:            "/wetbauncoor-clean-blog-jekyll"
+baseurl:            "index.html"
 url:                "https://wetbauncoor.github.io"
 
 # Social Profiles
